@@ -2,8 +2,7 @@
 
 ---
 
-![presentation-image](https://github.com/PetrisGR/FiveM-CaptureTheArea/assets/121623120/b5c45331-9ea6-4bfc-9dee-13cf6c554696)
-
+![presentation-image](https://github.com/PetrisGR/FiveM-CaptureTheArea/assets/121623120/1132b167-da56-45f7-a5f5-34def5a7d37d)
 
 ---
 
