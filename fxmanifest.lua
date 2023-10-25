@@ -19,10 +19,6 @@ client_scripts {
     'client/main.lua',
 }
 
-escrow_ignore {
-    'config.lua'
-}
-
 dependencies {
     'PolyZone',
     'clm_ProgressBar',
