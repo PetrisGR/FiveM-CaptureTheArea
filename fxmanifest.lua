@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Petris <github.com/PetrisGR>'
 description 'Capture The Area'
-version '1.0.0'
+version '1.0.1'
 
 lua54 'yes'
 
@@ -14,8 +14,8 @@ server_scripts {
 
 client_scripts {
     '@PolyZone/client.lua',
-    '@clm_ProgressBar/main.lua',
-    '@clm_ProgressBar/class.lua',
+    '@clm_ProgressBar/client/main.lua',
+    '@clm_ProgressBar/client/classes/TimerBarBase.lua',
     'client/main.lua',
 }
 
